@@ -499,3 +499,67 @@
 [22/4/2026, 10:50:33 pm] [Request] GET /api/clinic_details
 [22/4/2026, 10:50:33 pm] [404] API route not found: GET /api/clinic_details
 [22/4/2026, 10:50:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:51:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:51:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:51:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:51:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:52:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:52:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:52:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:52:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:53:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:53:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:53:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:53:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:54:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:54:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:54:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:54:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:55:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:55:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:55:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:55:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:56:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:56:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:56:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:56:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:57:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:57:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:57:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:57:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:58:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:58:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:58:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:58:33 pm] [Request] GET /api/users/17
+[22/4/2026, 10:59:33 pm] [Request] GET /api/approvals
+[22/4/2026, 10:59:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 10:59:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 10:59:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:00:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:00:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:00:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:00:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:01:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:01:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:01:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:01:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:02:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:02:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:02:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:02:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:03:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:03:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:03:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:03:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:04:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:04:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:04:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:04:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:05:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:05:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:05:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:05:33 pm] [Request] GET /api/users/17
+[22/4/2026, 11:06:33 pm] [Request] GET /api/approvals
+[22/4/2026, 11:06:33 pm] [Request] GET /api/clinic_details
+[22/4/2026, 11:06:33 pm] [404] API route not found: GET /api/clinic_details
+[22/4/2026, 11:06:33 pm] [Request] GET /api/users/17
